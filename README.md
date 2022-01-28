@@ -1,12 +1,14 @@
-## Astroxiii 
+
 <p align="center">
 
 <a href="https://app.daily.dev/astroxiii"><img align="left" src="https://github.com/astroxiii/astroxiii/blob/master/devcard.svg" width="300" alt="abderrahim mokhnache's Dev Card"/></a>
+
+## My packages :
  
-## A Bit in a Pocket
- my packages :
  https://pypi.org/project/bsnake/
+ 
  https://pypi.org/project/Qalm/
+ 
  https://pypi.org/project/ONRush/
 
 ## Github Stats

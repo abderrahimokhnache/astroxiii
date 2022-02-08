@@ -10,7 +10,8 @@
  https://pypi.org/project/Qalm/
  
  https://pypi.org/project/ONRush/
-
+ 
+ https://pypi.org/project/Strawberrypie/
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroxiii&show_icons=true&theme=radical)
 

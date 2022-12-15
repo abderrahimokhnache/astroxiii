@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey Welcome to my ZONE 👋, I'm Abderrahim</h1>
-<h3 align="center">i am a Passionate Software Engineer from algeria</h3>
+<h1 align="center">Hey, WELCOME TO MY ZONE 👋, I'm Abderrahim</h1>
+<h3 align="center">I am a Passionate Software Engineer from Algeria</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroxiii" alt="astroxiii" /></a> </p>
 
